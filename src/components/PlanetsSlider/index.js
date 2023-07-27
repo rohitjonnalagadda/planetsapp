@@ -1,7 +1,4 @@
 // Write your code here
-import Slider from 'react-slick'
-
-import PlanetItem from '../PlanetItem'
 
 import './index.css'
 
