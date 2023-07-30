@@ -1,7 +1,7 @@
 // Write your code here
 
 import './index.css'
-import 'planetItem'
+import 'PlanetItem'
 
 const PlanetsSlider = props => {
   const {planetsList} = props
